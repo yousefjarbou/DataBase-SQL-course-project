@@ -7,6 +7,7 @@ Students: Yousef Jarbou, Mohammad Inshasi, Zaid Abdullah, and Mohammad Khartoum
 
 
 ●	Description:
+[Description Video](https://drive.google.com/file/d/18Rf6IfMyzGXEEsegkZhjU-_4LAsX1c7e/view?usp=sharing).
 
 The Bus Station Database Project aims to create a comprehensive and efficient system for managing the operations of a bus station. The project will develop a database that encompasses various entities such as persons, users, drivers, tickets, buses, routes, and checkpoints. The database will facilitate ticket booking, user management, bus allocation, and route tracking functionalities.
 
