@@ -1,4 +1,4 @@
-# DataBase SQL University course project
+# DataBase SQL University course project May 2023
 
 Bus Station Database Project
 Team name: MYMZ 
