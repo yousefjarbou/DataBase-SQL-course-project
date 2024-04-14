@@ -7,7 +7,6 @@ Students: Yousef Jarbou, Mohammad Inshasi, Zaid Abdullah, and Mohammad Khartoum
 
 
 ●	Description:
-[Description Video](https://drive.google.com/file/d/18Rf6IfMyzGXEEsegkZhjU-_4LAsX1c7e/view?usp=sharing).
 
 The Bus Station Database Project aims to create a comprehensive and efficient system for managing the operations of a bus station. The project will develop a database that encompasses various entities such as persons, users, drivers, tickets, buses, routes, and checkpoints. The database will facilitate ticket booking, user management, bus allocation, and route tracking functionalities.
 
@@ -220,6 +219,7 @@ _______________________________________________________
 "I used the code from my Wallet Manager app and kept its interface mostly unchanged. This project aims to apply what we've learned in the Database course, like creating tables, ER-Diagrams, Schema and writing SQL Code.
 [Wallet Manager](https://github.com/yousefjarbou/wallet-manager-Flutter).
 "
+[Presentation Video](https://drive.google.com/file/d/18Rf6IfMyzGXEEsegkZhjU-_4LAsX1c7e/view?usp=sharing).
 
 In this era where mobile phone applications dominate users' interests, our project aims to develop a mobile application that caters to a wide range of devices. To achieve this, we have chosen to utilize a multiplatform framework called Flutter, developed by Google and powered by the Dart programming language.
 
